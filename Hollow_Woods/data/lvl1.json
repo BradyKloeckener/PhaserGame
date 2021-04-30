@@ -1,0 +1,16 @@
+{
+    "platforms": 
+    [
+        {"image": "rock", "x": 0, "y": 620},
+        {"image": "rock-large", "x": 220, "y": 400},
+        {"image": "rock-medium", "x": 0, "y": 185},
+        {"image": "rock-medium", "x": 685, "y": 275},
+        {"image": "rock-small", "x": 600, "y": 570},
+        {"image": "rock-small", "x": 425, "y": 175}
+    ],
+    "player": [{"image": "player", "x": 21, "y": 525}],
+    "zombie": [{"x": 685, "y": 200}, {"x": 0, "y": 545}],
+    "ghost": [{"x": 220, "y": 325}, {"x": 500, "y": 545}],
+    "chest": [{"x": 50, "y": 600}],
+    "cliff": [{"x": 905, "y": 525}]
+}

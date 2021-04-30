@@ -1,0 +1,14 @@
+{
+    "platforms": 
+    [
+        {"image": "rock", "x": 0, "y": 620},
+        {"image": "rock-large", "x": 560, "y": 200},
+        {"image": "rock-medium", "x": 175, "y": 325},
+        {"image": "rock-medium", "x": 525, "y": 450}
+    ],
+    "player": [{"image": "player", "x": 21, "y": 525}],
+    "zombie": [{"x": 175, "y": 250}],
+    "ghost": [{"x": 560, "y": 125}, {"x": 525, "y": 400}],
+    "chest": [{"x": 920, "y": 180}],
+    "cliff": [{"x": 905, "y": 525}]
+}
